@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "QUEUE_NAME": "A queue name",
+    "TWILIO_SID": "Your Twilio account sid",
+    "TWILIO_TOKEN": "Your Twilio Auth Token",
+    "TWILIO_PHONE": "Your Twilio Phone Number",
+    "smsqueueing_STORAGE": "Your Azure Storage Connection String",
+    "AzureWebJobsStorage": "Your Azure Storage Connection String",
+    "FUNCTIONS_WORKER_RUNTIME": "node"
+  }
+}

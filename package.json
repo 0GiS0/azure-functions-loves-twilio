@@ -1,0 +1,26 @@
+{
+  "name": "twilionotification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "azure": "^2.3.1-preview",
+    "azure-storage": "^2.10.2",
+    "twilio": "^3.25.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0GiS0/azure-functions-loves-twilio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0GiS0/azure-functions-loves-twilio.git/issues"
+  },
+  "homepage": "https://github.com/0GiS0/azure-functions-loves-twilio.git"
+}
