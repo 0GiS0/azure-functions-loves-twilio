@@ -9,6 +9,6 @@ These serverless APIs sends and receives SMS using Twilio and Azure Functions. I
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
 
-#More Information
+## More Information
 
-I wrote a post explaining the whole process [!here](https://www.returngis.net/2018/12/enviar-y-recibir-sms-con-twilio-desde-azure-functions/)
+I wrote a post explaining the whole process on my blog [return(GiS);](https://www.returngis.net/2018/12/enviar-y-recibir-sms-con-twilio-desde-azure-functions/)
